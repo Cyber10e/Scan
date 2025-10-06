@@ -1,7 +1,7 @@
-python-telegram-bot==20.7
-requests==2.31.0
-websocket-client==1.6.1
-sslyze==5.1.0
-aiofiles==23.2.1
-cryptography==41.0.3
-celery[sqlite]==5.3.1
+python-telegram-bot
+requests
+websocket-client
+sslyze
+aiofiles
+cryptography
+celery
